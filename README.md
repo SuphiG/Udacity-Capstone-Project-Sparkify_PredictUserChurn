@@ -5,9 +5,9 @@
 
 # Methodology
 * Define Target Variable (churn) and Exploratory Analysis
-* Feature Engineering (Create New Feature and Transformation)
-* Modeling (Random forest, logistic regression, SVM and gradient boosting tree)
-* Evaluation (precision, recall, F1-score)
+* Feature Engineering (Create New Feature)
+* Modeling (Random forest, logistic regression and  gradient boosting tree)
+* Evaluation (F1-score)
 
 
 # Result
